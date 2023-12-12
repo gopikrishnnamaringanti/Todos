@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Todos Application
 
@@ -36,3 +37,6 @@ To start the application run the following commands in terminal:
 - User can save todo and are directed to all tasks.
 - Users can look at his all tasks of different priorities.
 - User can check tasks and move them to completed tasks.
+=======
+# Todos
+>>>>>>> 2819643c8df38a783f1c16af7ed2b6ae4e145d0d
